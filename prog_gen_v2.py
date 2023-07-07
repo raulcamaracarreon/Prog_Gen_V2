@@ -101,8 +101,8 @@ acordes_movimientos_B = {
     'E': ['C#m', 'A#dim'],
     'F#7': ['D#m', 'B'],
     'G#m': ['E', 'C#m'],
-    'A#dim': ['F#7', 'Dm7', 'G#maj7', 'Amaj7', 'D#m'],
-    'Dm7' : ['B', 'D#m'],
+    'A#dim': ['F#7', 'Em7', 'G#maj7', 'Amaj7', 'D#m'],
+    'Em7' : ['B', 'D#m'],
     'G#maj7': ['B', 'D#m'],
     'Amaj7' :  ['B', 'D#m']
 }
